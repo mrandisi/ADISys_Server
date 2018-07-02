@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+
+    
+    <action  value= "creaPaziente"  >
+        <class>this</class>
+        <method>creaPaziente</method>
+        <static>no</static>
+    </action>
+    
+    <action  value= "modificaPaziente"  >
+        <class>this</class>
+        <method>modificaPaziente</method>
+        <static>no</static>
+    </action>
+
+    <action  value= "cancellaPaziente"  >
+        <class>this</class>
+        <method>cancellaPaziente</method>
+        <static>no</static>
+    </action>    
+    
+    <action  value= "cancellaTuttiPazienti"  >
+        <class>this</class>
+        <method>cancellaTuttiPazienti</method>
+        <static>no</static>
+    </action>
+    
+    <action  value= "showInfoPaziente"  >
+        <class>this</class>
+        <method>showInfoPaziente</method>
+        <static>no</static>
+    </action>
+    
+    <action  value= "getTabellaPazienti"  >
+        <class>this</class>
+        <method>getTabellaPazienti</method>
+        <static>no</static>
+    </action>                       
+      
+    <action  value= "getCellulariPaziente"  >
+        <class>this</class>
+        <method>getCellulariPaziente</method>
+        <static>no</static>
+    </action>      
+                           
+    <action  value= "creaInfermiere"  >
+        <class>this</class>
+        <method>creaInfermiere</method>
+        <static>no</static>
+    </action>
+         
+    <action  value= "modificaInfermiere"  >
+        <class>this</class>
+        <method>modificaInfermiere</method>
+        <static>no</static>
+    </action>
+         
+    <action  value= "cancellaInfermiere"  >
+        <class>this</class>
+        <method>cancellaInfermiere</method>
+        <static>no</static>
+    </action>     
+    
+    <action  value= "cancellaTuttiInfermieri"  >
+        <class>this</class>
+        <method>cancellaTuttiInfermieri</method>
+        <static>no</static>
+    </action>
+    
+    <action  value= "showInfoInfermiere"  >
+        <class>this</class>
+        <method>showInfoInfermiere</method>
+        <static>no</static>
+    </action>
+         	 
+    <action  value= "getTabellaInfermieri"  >
+        <class>this</class>
+        <method>getTabellaInfermieri</method>
+        <static>no</static>
+    </action>              
+    
+     <action  value= "getTabellaInfoInfermieri"  >
+        <class>this</class>
+        <method>getTabellaInfoInfermieri</method>
+        <static>no</static>
+    </action>   
+                 
+    <action  value= "creaPatologia"  >
+        <class>this</class>
+        <method>creaPatologia</method>
+        <static>no</static>
+    </action>
+    
+    <action  value= "modificaPatologia"  >
+        <class>this</class>
+        <method>modificaPatologia</method>
+        <static>no</static>
+    </action>
+
+    <action  value= "cancellaPatologia"  >
+        <class>this</class>
+        <method>cancellaPatologia</method>
+        <static>no</static>
+    </action>                 
+    
+    <action  value= "getNomiPatologie"  >
+        <class>this</class>
+        <method>getNomiPatologie</method>
+        <static>no</static>
+    </action> 
+    
+    <action  value= "getTabellaPatologie"  >
+        <class>this</class>
+        <method>getTabellaPatologie</method>
+        <static>no</static>
+    </action> 
+    
+    <action  value= "creaIntervento"  >
+        <class>this</class>
+        <method>creaIntervento</method>
+        <static>no</static>
+    </action>  
+    
+    <action  value= "modificaIntervento"  >
+        <class>this</class>
+        <method>modificaIntervento</method>
+        <static>no</static>
+    </action>  
+    
+    <action  value= "cancellaIntervento"  >
+        <class>this</class>
+        <method>cancellaIntervento</method>
+        <static>no</static>
+    </action>  
+    
+    <action  value= "showInfoIntervento"  >
+        <class>this</class>
+        <method>showInfoIntervento</method>
+        <static>no</static>
+    </action>       
+    
+    <action  value= "getTabellaInterventi"  >
+        <class>this</class>
+        <method>getTabellaInterventi</method>
+        <static>no</static>
+    </action>        
+    
+    <action  value= "getTabellaVisualizzazioneInterventi"  >
+        <class>this</class>
+        <method>getTabellaVisualizzazioneInterventi</method>
+        <static>no</static>
+    </action>  
+    
+    <action  value= "cancellaTuttiInterventi"  >
+        <class>this</class>
+        <method>cancellaTuttiInterventi</method>
+        <static>no</static>
+    </action>           
+    
+    <action  value= "visualizzaPianificatore"  >
+        <class>this</class>
+        <method>visualizzaPianificatore</method>
+        <static>yes</static>
+    </action> 
+    
+    <action  value= "visualizzaEditorPazienti"  >
+        <class>this</class>
+        <method>visualizzaEditorPazienti</method>
+        <static>yes</static>
+    </action>  
+    
+    <action  value= "visualizzaEditorInfermieri"  >
+        <class>this</class>
+        <method>visualizzaEditorInfermieri</method>
+        <static>yes</static>
+    </action>  
+    
+    <action  value= "visualizzaEditorPatologie"  >
+        <class>this</class>
+        <method>visualizzaEditorPatologie</method>
+        <static>yes</static>
+    </action>  
+    
+    <action  value= "visualizzaEditorInterventi"  >
+        <class>this</class>
+        <method>visualizzaEditorInterventi</method>
+        <static>yes</static>
+    </action>  
+    
+    <action  value= "visualizzaDialogoEsportazione"  >
+        <class>this</class>
+        <method>visualizzaDialogoEsportazione</method>
+        <static>yes</static>
+    </action>  
+    
+    <action  value= "visualizzaDialogoVerifica"  >
+        <class>this</class>
+        <method>visualizzaDialogoVerifica</method>
+        <static>yes</static>
+    </action>  
+    
+    <action  value= "esportaPianificazione"  >
+        <class>this</class>
+        <method>esportaPianificazione</method>
+        <static>no</static>
+    </action>  
+    
+     <action  value= "getListaJournaling"  >
+        <class>this</class>
+        <method>getListaJournaling</method>
+        <static>no</static>
+    </action>  
+    
+     <action  value= "caricaFile"  >
+        <class>this</class>
+        <method>caricaFile</method>
+        <static>no</static>
+    </action>  
+    
+     <action  value= "getDatiInfermiere"  >
+        <class>this</class>
+        <method>getDatiInfermiere</method>
+        <static>no</static>
+    </action>  
+    
+     <action  value= "popolaTabellaAttivita"  >
+        <class>this</class>
+        <method>popolaTabellaAttivita</method>
+        <static>no</static>
+    </action>  
+    
+     <action  value= "popolaTabellaLog"  >
+        <class>this</class>
+        <method>popolaTabellaLog</method>
+        <static>no</static>
+    </action>  
+    
+     <action  value= "showInfoInterventoCompleto"  >
+        <class>this</class>
+        <method>showInfoInterventoCompleto</method>
+        <static>no</static>
+    </action>  
+    
+    <action  value= "getTipiIntervento"  >
+        <class>this</class>
+        <method>getTipiIntervento</method>
+        <static>no</static>
+    </action>
+</actions>

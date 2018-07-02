@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+    <action value="creaPaziente">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>	
+    
+    <action value="modificaPaziente">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="cancellaPaziente">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>    
+    
+    <action value="cancellaTuttiPazienti">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="showInfoPaziente">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="getTabellaPazienti">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>   
+    
+    <action value="getCellulariPaziente">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>  
+    
+    <action value="creaInfermiere">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>    
+    
+    <action value="modificaInfermiere">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="cancellaInfermiere">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="cancellaTuttiInfermieri">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="showInfoInfermiere">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="getTabellaInfermieri">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>   
+    
+    <action value="getTabellaInfoInfermieri">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>   
+      
+    <action value="creaPatologia">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>	
+    
+    <action value="modificaPatologia">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="cancellaPatologia">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>    
+    
+    <action value="getNomiPatologie">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>   
+    
+    <action value="getTabellaPatologie">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>   
+    
+    
+    <action value="creaIntervento">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>  
+    
+    <action value="modificaIntervento">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>  
+    
+    <action value="cancellaIntervento">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="cancellaTuttiInterventi">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>     
+    
+    <action value="getTipiIntervento">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="getTabellaInterventi">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="showInfoIntervento">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="getTabellaVisualizzazioneInterventi">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action> 
+    
+    <action value="visualizzaPianificatore">
+        <class>gui.ADISysMain</class>
+    </action>
+    
+    <action value="visualizzaEditorPazienti">
+        <class>gui.ADISysMain</class>
+    </action>
+    
+    <action value="visualizzaEditorInfermieri">
+        <class>gui.ADISysMain</class>
+    </action>
+    
+    <action value="visualizzaEditorPatologie">
+        <class>gui.ADISysMain</class>
+    </action>
+             
+    <action value="visualizzaEditorInterventi">
+        <class>gui.ADISysMain</class>
+    </action>
+    
+    <action value="visualizzaDialogoEsportazione">
+        <class>gui.ADISysMain</class>
+    </action>
+    
+    <action value="visualizzaDialogoVerifica">
+        <class>gui.ADISysMain</class>
+    </action>
+    
+    <action value="esportaPianificazione">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="getListaJournaling">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="caricaFile">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="getDatiInfermiere">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="popolaTabellaAttivita">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="popolaTabellaLog">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+    
+    <action value="showInfoInterventoCompleto">
+        <class>frontEnd.controller.ConsultADISys</class>
+    </action>
+                                                                                                              
+</actions>

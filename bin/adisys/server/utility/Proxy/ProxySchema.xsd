@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/ProxySchema" xmlns:tns="http://www.example.org/ProxySchema" elementFormDefault="qualified">
+
+<xs:element name="actions">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="key" maxOccurs="unbounded">
+				<xs:complexType>
+         		 	<xs:sequence>
+						<!-- definiamo i vari elementi child di action -->
+						<xs:element name="class" type="xs:string" />
+						<xs:element name="method" type="xs:string" />
+						<xs:element name="static" type="xs:string"/>
+		  			</xs:sequence>
+				</xs:complexType>
+     	 	</xs:element>
+    	</xs:sequence>
+ 	 </xs:complexType>
+</xs:element>
+	
+</xs:schema>

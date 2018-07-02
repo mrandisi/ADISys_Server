@@ -1,0 +1,28 @@
+<interventi>
+<intervento id="000002" orainizio="23:23:27" orafine="23:23:31">
+<operatoreIntervento id="000000" />
+<data>2014-03-08</data>
+<luogo citta="TARANTO" indirizzo="VIALE DEL TRAMONTO, 200" cap="74100" />
+<paziente id="000000">
+  <nome>PINCO</nome>
+  <cognome>PALLINO</cognome>
+  <dataNascita>1975-10-01</dataNascita>
+  <cellulari>
+    <cellulare numero="3292334392" />
+    <cellulare numero="3293223111" />
+    <cellulare numero="3331232444" />
+  </cellulari>
+</paziente>
+<tipiInterventi>
+  <Patologia nome="POLMONITE">
+    <tipoIntervento>sciroppo</tipoIntervento>
+    <valoreRilevato tempoIntervento="01:00:01">n.d.</valoreRilevato>
+    <note></note>
+  </Patologia>
+</tipiInterventi><log><rilevazioni><rilevazione>
+<timestamp data="2014-03-08" ora="23:23:27"/>
+<gps latitudine="0.0" longitudine="0.0" altitudine="0.0" accuratezza="0"/>
+<accelerometro valorex="0.07691491" valorey="0.34611708" valorez="9.922023"/>
+</rilevazione>
+</rilevazioni></log></intervento>
+</interventi>

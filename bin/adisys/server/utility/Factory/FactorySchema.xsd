@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<xs:schema targetNamespace="http://www.example.org/ApplicationControllerFactorySchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:s1="http://www.example.org/ApplicationControllerFactorySchema"/>
